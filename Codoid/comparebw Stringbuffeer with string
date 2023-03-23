@@ -1,0 +1,1 @@
+String is immutable it means once we declared the ojbect once it cant be modified while Stringbuffer is immutable we can modify the object once we created.
